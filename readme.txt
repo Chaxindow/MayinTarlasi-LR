@@ -4,7 +4,6 @@ rl_minesweeper/
 ├── models/              # Eğitilmiş modeller
 ├── train.py             # Eğitim scripti
 ├── main.py              # Oynama veya test
-├── requirements.txt     
 └── README.md
 
 
